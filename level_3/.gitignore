@@ -1,0 +1,5 @@
+.pyc
+db.sqlite.3
+manage.py
+.migrations
+.tests.py 
